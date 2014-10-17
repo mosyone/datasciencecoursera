@@ -1,4 +1,4 @@
-## This is a markown file.
+## This is a markdown file.
 
-* Test
-* 2nd test
+* Fluffy teddybear.
+* Fluffy bunny.
